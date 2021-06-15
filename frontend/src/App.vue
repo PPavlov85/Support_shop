@@ -2,7 +2,7 @@
     <div id="wrapper">
         <nav class="navbar is-dark">
             <div class="navbar-brand">
-                <router-link to="/" class="navbar-item"><strong>Support shop</strong></router-link>
+                <router-link to="/" class="navbar-item"><strong>SUPPORT SHOP</strong></router-link>
 
                 <a class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbar-menu"
                    @click="showMobileMenu = !showMobileMenu">
